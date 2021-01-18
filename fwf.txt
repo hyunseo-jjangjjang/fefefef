@@ -3,3 +3,5 @@ cscds
 merge했음
 
 class Shop
+
+상점 추가 했습니다.
